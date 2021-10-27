@@ -8,6 +8,8 @@ This a basic Currency Converter application created by using Java 8. For further
 - Similarly, the user can convert the value entered in the right text-field from a particular foreign currency to its equivalent Indian rupee value.
 - Respective conversions are displayed in the corresponding text-fields.
 - The Close button then can be used to close the application.
+![image](https://user-images.githubusercontent.com/84613465/139007382-e3bee37d-578c-4b2c-b389-ee8341f9139e.png)
+
 
 # Experimental Setup 
 - Eclipse IDE for Java Developers 2021-06
@@ -19,5 +21,5 @@ This a basic Currency Converter application created by using Java 8. For further
 - The project demonstrates the use of Swing GUI and its different components.
 - We successfully learnt application of Java language and Swing interface to create the Currency Converter Application.
 
-#Author
-@ary9n
+# Author
+
