@@ -21,5 +21,5 @@ This a basic Currency Converter application created by using Java 8. For further
 - The project demonstrates the use of Swing GUI and its different components.
 - We successfully learnt application of Java language and Swing interface to create the Currency Converter Application.
 
-# Author
-
+# Dev
+Aryan Penikal
