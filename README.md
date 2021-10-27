@@ -9,12 +9,15 @@ This a basic Currency Converter application created by using Java 8. For further
 - Respective conversions are displayed in the corresponding text-fields.
 - The Close button then can be used to close the application.
 
-# Experimental Setup: 
+# Experimental Setup 
 - Eclipse IDE for Java Developers 2021-06
 - Java version “1.8.0_301”
 - Java™ SE Runtime Environment (build 1.8.0_301-b09)
 - Java HotSpot™ 64-Bit Server VM (build 25.301-b09, mixed mode)
 
-# Outcome:
+# Outcome
 - The project demonstrates the use of Swing GUI and its different components.
 - We successfully learnt application of Java language and Swing interface to create the Currency Converter Application.
+
+#Author
+@ary9n
